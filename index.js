@@ -16,7 +16,7 @@ app.set('views', path.join(__dirname, 'views'));
 // Database configuration
 const config = {
     user: 'sudan123',
-    password: 'dhakal@123',
+    password: 'Dhakal@123',
     server: 'sudanserver.database.windows.net',
     database: 'sudandb',
   options: {
